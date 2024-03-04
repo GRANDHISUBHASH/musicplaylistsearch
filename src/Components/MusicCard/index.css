@@ -1,0 +1,30 @@
+.imageCard {
+  display: flex;
+}
+img {
+  height: 100%;
+  width: 60%;
+}
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 20px;
+}
+.timeCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonCard {
+  height: 20px;
+  width: 40px;
+  border: none;
+  background: transparent;
+}
+
+svg {
+  font-size: large;
+}
